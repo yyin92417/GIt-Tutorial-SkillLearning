@@ -12,3 +12,10 @@ def divide(x, y):
         return x / y
     else:
         return "Error! Division by zero."
+
+print("Welcome to Simple Calculator ^ ^ ")
+print("Select operation:")
+print("1. Add")
+print("2. Subtract")
+print("3. Multiply")
+print("4. Divide")
